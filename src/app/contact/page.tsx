@@ -120,7 +120,9 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <div className="font-semibold text-gray-900">Mail</div>
-                    <div className="text-gray-600">support@securelanes.com</div>
+                    <div className="text-gray-600">
+                      support@securelanes.live
+                    </div>
                   </div>
                 </div>
 
